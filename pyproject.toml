@@ -6,6 +6,7 @@ authors = ["Nu2-Cracker <orcinusorca1758dv6932@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+autopep8 = "^1.5.7"
 
 [tool.poetry.dev-dependencies]
 
